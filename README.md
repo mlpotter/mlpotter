@@ -3,7 +3,7 @@
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-blue?logo=google-scholar&style=social)](https://scholar.google.com/citations?user=fwYsaRUAAAAJ&hl=en)
+[![Google Scholar](https://img.shields.io/badge/-Google%20Scholar-blue?logo=google-scholar&style=social)](https://scholar.google.com/citations?user=fwYsaRUAAAAJ&hl=en)
 
 <!-- Talking about you -->
 I am a Ph.D. student interested in Bayesian statistics, Bayesian neural networks robotics, deep learning , machine learning, and tracking algorithms advised by [Prof. Deniz Erdogmus](https://coe.northeastern.edu/people/erdogmus-deniz/) and co-advised by [Prof. Michael Everett](https://mfe7.github.io/) at Northeastern University (NU). I previously earned an M.S. from UCLA and both an M.S. and B.S. from Northeastern University.
