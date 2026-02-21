@@ -25,12 +25,12 @@ Languages and Tools:
 <!-- Your github readme stats
 You can use this api: https://github.com/mlpotter/github-readme-stats
 -->
-![Stats](./profile/stats.svg)
+<!-- ![Stats](./profile/stats.svg) -->
 
 <p>
-  <a href="https://github-readme-stats.vercel.app/api?username=mlpotter&show_icons=true">
+  <!-- <a href="https://github-readme-stats.vercel.app/api?username=mlpotter&show_icons=true">
     <img width="35%" align="right" alt="Michael's github stats" src="https://github-readme-stats.vercel.app/api?username=mlpotter&show_icons=true&hide_border=true" />
-  </a>
+  </a> -->
 
   <!-- Your languages and tools. Be careful with the alignment. 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
