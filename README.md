@@ -41,3 +41,5 @@ You can use this api: https://github.com/mlpotter/github-readme-stats
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 </p>
+
+[![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=mlpotter-2005)](https://github.com/pranesh-2005/github-readme-stats-fast)
