@@ -28,10 +28,9 @@ You can use this api: https://github.com/mlpotter/github-readme-stats
 <!-- ![Stats](./profile/stats.svg) -->
 
 <p>
-  <!-- <a href="https://github-readme-stats.vercel.app/api?username=mlpotter&show_icons=true">
-    <img width="35%" align="right" alt="Michael's github stats" src="https://github-readme-stats.vercel.app/api?username=mlpotter&show_icons=true&hide_border=true" />
-  </a> -->
-
+<a href="https://github.com/mlpotter">
+  <img width="35%" align="right" alt="Michael's github stats" src="https://github-readme-stats-fast.vercel.app/api?username=mlpotter&show_icons=true&hide_border=true" />
+</a>
   <!-- Your languages and tools. Be careful with the alignment. 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
   -->
@@ -41,5 +40,3 @@ You can use this api: https://github.com/mlpotter/github-readme-stats
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 </p>
-
-[![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=mlpotter)](https://github.com/pranesh-2005/github-readme-stats-fast)
